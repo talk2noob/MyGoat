@@ -1,0 +1,4 @@
+[submodule "DevOps_Scripts"]
+	path = DevOps_Scripts
+	url = https://github.com/talk2noob/DevOps.git
+	branch = dev
